@@ -1,4 +1,5 @@
 # Simple Node
+[![Build Status](https://travis-ci.com/AmaruEscalante/simple_node.svg?branch=master)](https://travis-ci.com/AmaruEscalante/simple_node)
 ## Overview
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
 
